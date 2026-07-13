@@ -10,7 +10,7 @@ The dashboard analyzes a CRM sales pipeline dataset from Maven Analytics and pro
 
 ## Dashboard Preview
 
-**
+![CRM Sales Dashboard](Dashboard.png)
 
 ---
 
